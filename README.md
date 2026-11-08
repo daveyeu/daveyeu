@@ -1,7 +1,8 @@
 👋 Hi, I’m @daveyeu
 
-Currently, I work at [Vimeo][1], as an engineering manager.
+These days, I work at [Datadog][1].
+A bit more here: https://daveyeu.com
 
-That's about it for now.
+That's about it.
 
-[1]: https://vimeo.com
+[1]: https://www.datadoghq.com
